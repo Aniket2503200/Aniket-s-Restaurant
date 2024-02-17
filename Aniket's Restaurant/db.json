@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "Taj Hotel",
+      "address": "Mumbai",
+      "email": "taj25@gmail.com",
+      "services": "All Type of food",
+      "mobile": 8745158965
+    },
+    {
+      "id": "2",
+      "name": "Grand Hayt",
+      "address": "Dekkan road Pune",
+      "email": "Dekan@gmail.com",
+      "services": "indian",
+      "mobile": 9745158965
+    },
+    {
+      "id": "3",
+      "name": "Kokani darbar",
+      "address": "Nashik",
+      "email": "kokanidarbar@gmail.com",
+      "services": "Non-Veg",
+      "mobile": 8745158965
+    },
+    {
+      "id": "4",
+      "name": "Panchvati Hotel",
+      "address": "Nashik",
+      "email": "panchvati@gmail.com",
+      "services": "italian",
+      "mobile": 8845158965
+    }
+  ],
+  "signup": [
+    {
+      "name": "Taj",
+      "email": "TajManagement@gmail.com",
+      "mobile": 999999999,
+      "password": "password@123",
+      "id": "1"
+    },
+    {
+      "id": "97ba",
+      "name": "Aniket",
+      "email": "Aniket@gmail.com",
+      "mobile": 8483040378,
+      "password": "aniket"
+    },
+    {
+      "id": "f199",
+      "name": "jayashri",
+      "email": "Marvellous@gmail.com",
+      "mobile": 785452111111,
+      "password": "realme"
+    },
+    {
+      "id": "8896",
+      "name": "Sanjay",
+      "email": "Sanjay@gmail.com",
+      "mobile": 7845123698,
+      "password": "sanjay"
+    },
+    {
+      "id": "b1af",
+      "name": "Omkar",
+      "email": "Omkar@gmail.com",
+      "mobile": 8878541265,
+      "password": "omkar@25"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
